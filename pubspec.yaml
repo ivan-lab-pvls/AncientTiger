@@ -22,7 +22,13 @@ dependencies:
   in_app_review: ^2.0.6
   percent_indicator: ^4.2.3
   flutter_countdown_timer: ^4.1.0
+  firebase_core: ^2.21.0
+  firebase_remote_config: ^4.3.3
   flutter_inappwebview: ^5.7.2+3
+  overlay_support: ^2.1.0
+  flutter_local_notifications: ^9.8.0+1
+  firebase_messaging: ^14.2.2
+  
 
   cupertino_icons: ^1.0.2
 
